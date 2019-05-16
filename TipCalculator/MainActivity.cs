@@ -9,10 +9,10 @@ using Android.Widget;
 
 namespace TipCalculator
 {
-    [Activity(Label = "TipCalculator", MainLauncher = true, Icon = "@mipmap/icon")]
-    public class MainActivity : Activity
+    [Activity(Label = "TipCalculator", MainLauncher = true, Theme = "@style/AppTheme.NoActionBar")]
+    public class MainActivity : AppCompatActivity
     {
-        protected override void OnCreate(Bundle bundle)
+        protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
