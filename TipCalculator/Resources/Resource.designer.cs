@@ -3095,17 +3095,17 @@ namespace TipCalculator
 			// aapt resource value: 0x7f090069
 			public const int action_bar_title = 2131296361;
 			
-			// aapt resource value: 0x7f0900b1
-			public const int action_container = 2131296433;
+			// aapt resource value: 0x7f0900b2
+			public const int action_container = 2131296434;
 			
 			// aapt resource value: 0x7f09008e
 			public const int action_context_bar = 2131296398;
 			
-			// aapt resource value: 0x7f0900bc
-			public const int action_divider = 2131296444;
+			// aapt resource value: 0x7f0900bd
+			public const int action_divider = 2131296445;
 			
-			// aapt resource value: 0x7f0900b2
-			public const int action_image = 2131296434;
+			// aapt resource value: 0x7f0900b3
+			public const int action_image = 2131296435;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -3122,14 +3122,14 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09006b
 			public const int action_mode_close_button = 2131296363;
 			
-			// aapt resource value: 0x7f0900c1
-			public const int action_settings = 2131296449;
+			// aapt resource value: 0x7f0900c2
+			public const int action_settings = 2131296450;
 			
-			// aapt resource value: 0x7f0900b3
-			public const int action_text = 2131296435;
+			// aapt resource value: 0x7f0900b4
+			public const int action_text = 2131296436;
 			
-			// aapt resource value: 0x7f0900bd
-			public const int actions = 2131296445;
+			// aapt resource value: 0x7f0900be
+			public const int actions = 2131296446;
 			
 			// aapt resource value: 0x7f09006c
 			public const int activity_chooser_view_content = 2131296364;
@@ -3191,8 +3191,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f090086
 			public const int checkbox = 2131296390;
 			
-			// aapt resource value: 0x7f0900bb
-			public const int chronometer = 2131296443;
+			// aapt resource value: 0x7f0900bc
+			public const int chronometer = 2131296444;
 			
 			// aapt resource value: 0x7f090061
 			public const int clip_horizontal = 2131296353;
@@ -3203,8 +3203,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f090040
 			public const int collapseActionView = 2131296320;
 			
-			// aapt resource value: 0x7f0900a7
-			public const int container = 2131296423;
+			// aapt resource value: 0x7f0900a8
+			public const int container = 2131296424;
 			
 			// aapt resource value: 0x7f090082
 			public const int content = 2131296386;
@@ -3212,8 +3212,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f090075
 			public const int contentPanel = 2131296373;
 			
-			// aapt resource value: 0x7f0900a8
-			public const int coordinator = 2131296424;
+			// aapt resource value: 0x7f0900a9
+			public const int coordinator = 2131296425;
 			
 			// aapt resource value: 0x7f09007c
 			public const int custom = 2131296380;
@@ -3227,20 +3227,20 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09006f
 			public const int default_activity_button = 2131296367;
 			
-			// aapt resource value: 0x7f0900aa
-			public const int design_bottom_sheet = 2131296426;
+			// aapt resource value: 0x7f0900ab
+			public const int design_bottom_sheet = 2131296427;
+			
+			// aapt resource value: 0x7f0900b0
+			public const int design_menu_item_action_area = 2131296432;
 			
 			// aapt resource value: 0x7f0900af
-			public const int design_menu_item_action_area = 2131296431;
+			public const int design_menu_item_action_area_stub = 2131296431;
 			
 			// aapt resource value: 0x7f0900ae
-			public const int design_menu_item_action_area_stub = 2131296430;
+			public const int design_menu_item_text = 2131296430;
 			
 			// aapt resource value: 0x7f0900ad
-			public const int design_menu_item_text = 2131296429;
-			
-			// aapt resource value: 0x7f0900ac
-			public const int design_navigation_view = 2131296428;
+			public const int design_navigation_view = 2131296429;
 			
 			// aapt resource value: 0x7f090027
 			public const int disableHome = 2131296295;
@@ -3299,8 +3299,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f090071
 			public const int icon = 2131296369;
 			
-			// aapt resource value: 0x7f0900be
-			public const int icon_group = 2131296446;
+			// aapt resource value: 0x7f0900bf
+			public const int icon_group = 2131296447;
 			
 			// aapt resource value: 0x7f090041
 			public const int ifRoom = 2131296321;
@@ -3308,8 +3308,11 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09006e
 			public const int image = 2131296366;
 			
-			// aapt resource value: 0x7f0900b7
-			public const int info = 2131296439;
+			// aapt resource value: 0x7f0900b8
+			public const int info = 2131296440;
+			
+			// aapt resource value: 0x7f0900a3
+			public const int inputBill = 2131296419;
 			
 			// aapt resource value: 0x7f090068
 			public const int italic = 2131296360;
@@ -3320,8 +3323,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09004e
 			public const int labeled = 2131296334;
 			
-			// aapt resource value: 0x7f0900a6
-			public const int largeLabel = 2131296422;
+			// aapt resource value: 0x7f0900a7
+			public const int largeLabel = 2131296423;
 			
 			// aapt resource value: 0x7f090054
 			public const int left = 2131296340;
@@ -3332,11 +3335,11 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09001d
 			public const int line3 = 2131296285;
 			
-			// aapt resource value: 0x7f0900a3
-			public const int linearLayout1 = 2131296419;
-			
 			// aapt resource value: 0x7f0900a4
-			public const int linearLayout2 = 2131296420;
+			public const int linearLayout1 = 2131296420;
+			
+			// aapt resource value: 0x7f0900a5
+			public const int linearLayout2 = 2131296421;
 			
 			// aapt resource value: 0x7f090024
 			public const int listMode = 2131296292;
@@ -3344,8 +3347,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f090070
 			public const int list_item = 2131296368;
 			
-			// aapt resource value: 0x7f0900c0
-			public const int masked = 2131296448;
+			// aapt resource value: 0x7f0900c1
+			public const int masked = 2131296449;
 			
 			// aapt resource value: 0x7f09009c
 			public const int message = 2131296412;
@@ -3365,8 +3368,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09002f
 			public const int multiply = 2131296303;
 			
-			// aapt resource value: 0x7f0900ab
-			public const int navigation_header_container = 2131296427;
+			// aapt resource value: 0x7f0900ac
+			public const int navigation_header_container = 2131296428;
 			
 			// aapt resource value: 0x7f090042
 			public const int never = 2131296322;
@@ -3377,14 +3380,14 @@ namespace TipCalculator
 			// aapt resource value: 0x7f090025
 			public const int normal = 2131296293;
 			
-			// aapt resource value: 0x7f0900b9
-			public const int notification_background = 2131296441;
+			// aapt resource value: 0x7f0900ba
+			public const int notification_background = 2131296442;
+			
+			// aapt resource value: 0x7f0900b6
+			public const int notification_main_column = 2131296438;
 			
 			// aapt resource value: 0x7f0900b5
-			public const int notification_main_column = 2131296437;
-			
-			// aapt resource value: 0x7f0900b4
-			public const int notification_main_column_container = 2131296436;
+			public const int notification_main_column_container = 2131296437;
 			
 			// aapt resource value: 0x7f090060
 			public const int outline = 2131296352;
@@ -3413,11 +3416,11 @@ namespace TipCalculator
 			// aapt resource value: 0x7f090055
 			public const int right = 2131296341;
 			
-			// aapt resource value: 0x7f0900b8
-			public const int right_icon = 2131296440;
+			// aapt resource value: 0x7f0900b9
+			public const int right_icon = 2131296441;
 			
-			// aapt resource value: 0x7f0900b6
-			public const int right_side = 2131296438;
+			// aapt resource value: 0x7f0900b7
+			public const int right_side = 2131296439;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -3494,8 +3497,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09002c
 			public const int showTitle = 2131296300;
 			
-			// aapt resource value: 0x7f0900a5
-			public const int smallLabel = 2131296421;
+			// aapt resource value: 0x7f0900a6
+			public const int smallLabel = 2131296422;
 			
 			// aapt resource value: 0x7f090016
 			public const int snackbar_action = 2131296278;
@@ -3563,8 +3566,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09005a
 			public const int textStart = 2131296346;
 			
-			// aapt resource value: 0x7f0900b0
-			public const int text_input_password_toggle = 2131296432;
+			// aapt resource value: 0x7f0900b1
+			public const int text_input_password_toggle = 2131296433;
 			
 			// aapt resource value: 0x7f090018
 			public const int textinput_counter = 2131296280;
@@ -3575,8 +3578,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09001a
 			public const int textinput_helper_text = 2131296282;
 			
-			// aapt resource value: 0x7f0900ba
-			public const int time = 2131296442;
+			// aapt resource value: 0x7f0900bb
+			public const int time = 2131296443;
 			
 			// aapt resource value: 0x7f090023
 			public const int title = 2131296291;
@@ -3596,8 +3599,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09007d
 			public const int topPanel = 2131296381;
 			
-			// aapt resource value: 0x7f0900a9
-			public const int touch_outside = 2131296425;
+			// aapt resource value: 0x7f0900aa
+			public const int touch_outside = 2131296426;
 			
 			// aapt resource value: 0x7f09000f
 			public const int transition_current_scene = 2131296271;
@@ -3629,8 +3632,8 @@ namespace TipCalculator
 			// aapt resource value: 0x7f09001b
 			public const int view_offset_helper = 2131296283;
 			
-			// aapt resource value: 0x7f0900bf
-			public const int visible = 2131296447;
+			// aapt resource value: 0x7f0900c0
+			public const int visible = 2131296448;
 			
 			// aapt resource value: 0x7f090043
 			public const int withText = 2131296323;

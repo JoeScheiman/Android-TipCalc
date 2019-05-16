@@ -9,6 +9,7 @@
     tools:showIn="@layout/activity_main">
 
     <EditText
+        android:id="@+id/inputBill"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
     <Button
